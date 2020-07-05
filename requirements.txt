@@ -1,6 +1,7 @@
 -e git://github.com/gutfeeling/word_forms.git#egg=word_forms
 requests==2.23.0
 git+https://github.com/dnanhkhoa/simple-bloom-filter#egg=simple-bloom-filter
+nltk=3.4.5
 rake_nltk==1.0.4
 beautifulsoup4==4.9.1
 bloomfilter==0.1.0
